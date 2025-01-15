@@ -1,0 +1,14 @@
+p {
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao {
+    background-color: #949494;
+}
+
+.paragrafo-destacado {
+    background-color: #F0CCE2;
+}
+
+/* nome sempre coerente para cada função, não meio que redundante, como descricao 1 e 2 */
